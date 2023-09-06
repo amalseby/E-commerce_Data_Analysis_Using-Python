@@ -14,10 +14,10 @@ Observations on the following are made:
 5)What products are most often sold together?<br>
 
 Dataset
-*Data belongs to Kmart: A leading online retailer in the US<br>
-*Time Period :  January 2019  -  December 2019<br>
-*Unique Products:  19<br>
-*Total Orders :  178,437<br>
+*Data belongs to Kmart: A leading online retailer in the US <br>
+*Time Period :  January 2019  -  December 2019 <br>
+*Unique Products:  19 <br>
+*Total Orders :  178,437 <br>
 *Cities :  9<br>
-*KPI’s : Total Sales, Total Products Sold<br>
+*KPI’s : Total Sales, Total Products Sold <br>
 
