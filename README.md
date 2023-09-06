@@ -12,3 +12,12 @@ Observations on the following are made:
 3)Best time to display advertising to maximize sales?<br>
 4)Best-selling product & Why?<br>
 5)What products are most often sold together?<br>
+
+Dataset
+*Data belongs to Kmart: A leading online retailer in the US
+*Time Period :  January 2019  -  December 2019
+*Unique Products:  19
+*Total Orders :  178,437
+*Cities :  9
+*KPI’s : Total Sales, Total Products Sold
+
