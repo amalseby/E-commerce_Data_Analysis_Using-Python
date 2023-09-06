@@ -7,8 +7,8 @@ The data will be used to assist Kmart's sales team in fine-tuning sales strategi
 # Business Problem Statements
 Observations on the following are made:
 
-1)What was the best month for sales?
-2)Which city had the highest number of sales?
-3)Best time to display advertising to maximize sales?
-4)Best-selling product & Why?
-5)What products are most often sold together?
+1)What was the best month for sales? <br>
+2)Which city had the highest number of sales?<br>
+3)Best time to display advertising to maximize sales?<br>
+4)Best-selling product & Why?<br>
+5)What products are most often sold together?<br>
